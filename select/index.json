@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "倦怠モラトリアム",
+  "base_artist": "the paddles",
+  "createdAt": "2026-02-19T16:59:24.822189Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "倦怠モラトリアム",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_倦怠モラトリアム_the_paddles.txt"
+    }
+  ]
+}
